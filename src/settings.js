@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: '小新商城',
+  title: 'WTE后台管理系统',
 
   /**
    * @type {boolean} true | false

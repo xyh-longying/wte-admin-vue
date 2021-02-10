@@ -59,12 +59,8 @@
         "npm": ">= 3.0.0"
     },
     "license": "MIT",
-    "id": "xiaoxinmall-pc",
+    "id": "wte-admin",
     "keywords": [
-        "小程序商城",
-        "云开发",
-        "可视化",
-        "DIY",
-        "实体店"
+        "商城后台管理"
     ]
 }
